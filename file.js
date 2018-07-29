@@ -1,1 +1,1 @@
-console.log('Welcome to my first repo created.');
+console.log('Welcome to my first repo.');
